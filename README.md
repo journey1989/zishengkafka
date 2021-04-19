@@ -1,4 +1,5 @@
 执行步骤：
+
 1、topic话题:"DubmicLog",和bootstrap_servers ip找开发要
 
 2、auto_offset_reset = earliest，就是从 Topic 的头往后读 or latest就是忽略之前的数据，从程序运行以后，新来的数据开始
